@@ -16,7 +16,7 @@ Key Features:
  
 4) Cost Optimization: By automatically removing unnecessary EBS snapshots, this solution helps optimize storage usage and reduce long-term AWS costs.
 
-## Sample Screenshot
+## Sample Screenshots
 
 <img width="1440" alt="1 " src="https://github.com/user-attachments/assets/713fab88-de29-48e2-bd5a-1763f94e7249">
 <img width="1440" alt="2" src="https://github.com/user-attachments/assets/2da1e390-7e2d-456d-86d4-4555e00d611a">
